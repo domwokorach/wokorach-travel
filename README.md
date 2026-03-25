@@ -1,4 +1,4 @@
-# Booking.Com
+# Booking.com
 
 ![Logo](https://cf.bstatic.com/static/img/bcom_logo_blue_bg/f12f834e849b2a7f752a14b2598a6ddfeda1e713.svg)
 
@@ -56,14 +56,6 @@ React, Javascript, Material-UI, React-router-dom, Axios, Styled-components, Json
 5. One can check the availability and book the available Hotels and Rooms.
 
 
-# Contributers
-
-- [@vishnusankar95](https://github.com/vishnusankar95)
-- [@Rakesh-pilly](https://github.com/Rakesh-pilly)
-- [@Ramlala-Yadav-Git](https://github.com/Ramlala-Yadav-Git)
-- [@ManishSinghBhadouria](https://github.com/ManishSinghBhadouria)
-
-
 
 # Glimpse of website
 
@@ -82,19 +74,3 @@ React, Javascript, Material-UI, React-router-dom, Axios, Styled-components, Json
 4. Footer
 
 ![Footer](https://github.com/ManishSinghBhadouria/api/blob/gh-pages/Booking11/Footer.png?raw=true)
-
-
-## Feedback
-
-If you have any feedback, please reach out to us at
-
-ramlala_nj2_075@masai.school
-
-rakesh_nj2_106@masai.school
-
-Vishnu_nj2_010@masai.school 
-
-manish_nj2_103@masai.school
-
-
-# wokorach-travel
